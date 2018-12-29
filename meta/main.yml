@@ -1,0 +1,11 @@
+galaxy_info:
+  author: Sudoers
+  description: Ce role copie la configuration sudoers qui autorise le groupe sudo à ne pas utiliser de password.
+  
+  license: license (GPLv2, CC-BY, etc)
+
+  min_ansible_version: 2.4
+
+  galaxy_tags: []
+
+dependencies: []
